@@ -21,7 +21,7 @@ In this API there are 11 endpoints
 ```json
 [
   {
-    "email": "shiyaan@gmail.com",
+    "email": "firstemail@gmail.com",
     "username": "Shiyaan",
     "firstname": "Shiyaan",
     "lastname": "Showkat",
@@ -34,7 +34,7 @@ In this API there are 11 endpoints
     "phone": 123456
   },
   {
-    "email": "jibranjibby2@gmail.com",
+    "email": "secondemail@gmail.com",
     "username": "Abrar",
     "firstname": "Abrar",
     "lastname": "Showkat",
@@ -47,7 +47,7 @@ In this API there are 11 endpoints
     "phone": 12345
   },
   {
-    "email": "abrar@yahoo.com",
+    "email": "thirdemail@yahoo.com",
     "username": "Jibby",
     "firstname": null,
     "lastname": null,
